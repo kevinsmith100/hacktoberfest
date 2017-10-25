@@ -1,6 +1,6 @@
 #### Name: [Kevin Smith](https://github.com/kevinsmith100)
  - Place: Pennsylvania, USA
- - Bio: Novice Software Developer
+ - Bio: Front and Backend Software Developer JS
  - GitHub: [kevinsmith100](https://github.com/kevinsmith100)
 
 #### Name: [Grace Bell](https://github.com/lulabell)
